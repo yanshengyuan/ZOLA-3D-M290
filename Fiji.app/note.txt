@@ -1,0 +1,1 @@
+FijImage APP (JAVA app) with ZOLA plug-in downloaded here in this folder
